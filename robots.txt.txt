@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/slike/
+
+sitemap:https://github.com/AleksandarMikita/AleksandarMikita.github.io/blob/main/sitemap.xml
